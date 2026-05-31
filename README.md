@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pitasoft-4
-- 👀 I’m interested in Front end development for beginners
+- 👀Aspiring cybersecurity professional | Learning ethical hacking, SOC analysis & network defense.
 
 
 <!---
